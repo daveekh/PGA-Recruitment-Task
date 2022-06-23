@@ -1,1 +1,3 @@
-# PGA-Recruitment-Task
+# PGA Recruitment Task
+
+Dawid Nadzieja © 2021
